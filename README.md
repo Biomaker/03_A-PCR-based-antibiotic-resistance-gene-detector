@@ -1,3 +1,12 @@
+
+
+
+
+<img src="Images/Banner image team 3(branded).png" alt="image"/>
+
+<img src="Images/Edo-Dzafic.jpg" alt="image"/> <img src="Images/Avik-Mukherjee.jpg" alt="image"/> <img src="Images/Andrew-Plygawko.jpg" alt="image"/> <img src="Images/Vladimir-Nashchekin.jpg" alt="image"/> <img src="Images/Sukanya-Datta.jpg" alt="image"/> <img src="Images/Jennifer-Wilson.jpg" alt="image"/>
+
+
 Here are some loose guidlines meant to give you an idea of what information we expect to find in each repository. Feel free to present your documentation in the most accessible/suitable order and style but you **must** include project data relating to the headings below, if relevant to your project. Also, include your final proposal in the top directory.
 
 [**A very good example**](https://github.com/Biological-Microsystems-Laboratory/micropipette)
