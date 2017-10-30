@@ -1,6 +1,9 @@
 The Harware used in this project can be separated in to three main groups: control, thermocycling and flurecence detection. 
 
 ## Control
+ARDUINO UNO  
+[Data Sheet](Data20%sheets/Arduino.pdf)
+
 ## Thermocycling
 ###### Heating element
 HP06-2/11-240-HEATER, PTC FPLATE, 110W  from [Farnell element14](http://uk.farnell.com/dbk/hp06-2-11-240/heater-ptc-fplate-110w/dp/4408433?ost=HP06-2%2F11-240+-++HEATER%2C+PTC+FPLATE%2C+110W&iscrfnonsku=false&ddkey=http%3Aen-GB%2FElement14_United_Kingdom%2Fsearch)  
