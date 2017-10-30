@@ -18,13 +18,19 @@ The detector is yet to be calibrated, for now a simple [code](Code/Detector) to 
 
 ## Hardware
 <img src="Images/Schematic.png" alt="image"/>
-
+### Sample contaiment
+Curently the sample is healed in PVC tubing sealed at either end with silica. A presurised system to move the sample from the PCR to the flurecence detetion stage is in devlopment.
 ### Thermocycling
 Thermocyclin is facilitated through alternating swiching between a heating element, and a peltier cooler and fan. The swiching is achived using a pair of realays controled by the arduino. The temperature of the heaing plate is taken as the reference temperature.
 ### Flurecence sensing
 Flurecece exitation is achived ising n LED. A photodiode is sedas aa detector and a high pass filter blocks out the exitation wavelengths. 
+### Interface
+An RGB LCD is used to display current temperature Cycle number and proces (heaing or cooling).
 
 ## Installation, Maintenance and Testing Guide
 Curently the thermocycling performace achived can be seen bellow:
 <img src="Images/Cycle.jpg" alt="image"/>
+
+The Leveles of lurecence obtained after PCR compared to a control can be seen below:
+<img src="Images/ResultsChem.jpg" alt="image"/>
 
