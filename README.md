@@ -14,15 +14,18 @@ Modern day biomedicine has been revolutionised by the introduction of molecular 
 The code to controll the thermocycling/PCR. Holds a max of 90 degrees for 10s and a min of 60 for 10s for a total of 35 cycles.
 Variables of max and min time, time for which these temps should be maintained, nuber of cycles can be varied.
 ### Flurecence sensing
-
+The detector is yet to be calibrated, for now a blinking [test]() is used on samples of known concentration to determine threshold levels.
 
 
 ## Hardware
+<img src="Images/Schematic.png" alt="image"/>
+
 ### Thermocycling
-  
+Thermocyclin is facilitated through alternating swiching between a heating element, and a peltier cooler and fan. The swiching is achived using a pair of realays controled by the arduino. The temperature of the heaing plate is taken as the reference temperature.
 ### Flurecence sensing
+Flurecece exitation is achived ising n LED. A photodiode is sedas aa detector and a high pass filter blocks out the exitation wavelengths. 
 
 ## Installation, Maintenance and Testing Guide
 
-Provide instructions on usage, describe a test scheme and show how to run the tests with code and hardware configuration examples with some representative results.
+
 
