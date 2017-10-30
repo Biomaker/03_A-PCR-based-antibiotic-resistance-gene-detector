@@ -10,15 +10,16 @@ Modern day biomedicine has been revolutionised by the introduction of molecular 
 
 
 ## Software
-### Thermocycling
-
+### [Thermocycling](Code/PCR_code)
+The code to controll the thermocycling/PCR. Holds a max of 90 degrees for 10s and a min of 60 for 10s for a total of 35 cycles.
+Variables of max and min time, time for which these temps should be maintained, nuber of cycles can be varied.
 ### Flurecence sensing
 
 
 
 ## Hardware
 ### Thermocycling
-
+  
 ### Flurecence sensing
 
 ## Installation, Maintenance and Testing Guide
