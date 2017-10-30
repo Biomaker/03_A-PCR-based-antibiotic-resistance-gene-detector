@@ -17,7 +17,8 @@ Variables of max and min time, time for which these temps should be maintained, 
 The detector is yet to be calibrated, for now a simple [code](Code/Detector) to colect analogue input is used on samples of known concentration to determine threshold levels.
 
 ## Hardware
-<img src="Images/Schematic.png" alt="image"/>
+<img src="Images/Schematic.png" alt="image"/>  
+
 ### Sample contaiment
 Curently the sample is healed in PVC tubing sealed at either end with silica. A presurised system to move the sample from the PCR to the flurecence detetion stage is in devlopment.
 ### Thermocycling
